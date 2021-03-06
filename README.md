@@ -25,7 +25,7 @@
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 
 ## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/jarbasmedeiros)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/jarbas-medeiros-49667b13b/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/jarbasmedeiros)](https://github.com/jarbasmedeiros)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarbas-medeiros-49667b13b/)](https://www.linkedin.com/in/jarbas-medeiros-49667b13b/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+084+987224452&text=Hello!)](https://api.whatsapp.com/send?phone=55+084+987224452&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jarbasmedeirosfilho@gmail.com)](mailto:jarbasmedeirosfilho@gmail.com)

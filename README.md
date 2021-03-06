@@ -32,6 +32,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jarbasmedeirosfilho@gmail.com)](mailto:jarbasmedeirosfilho@gmail.com)
 
 ## Status
-[![Jarbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarbasmedeiros&hide=contribs&how_icons=true)](https://github.com/jarbasmedeiros)
+[![Jarbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarbasmedeiros&how_icons=true&hide=contribs)](https://github.com/jarbasmedeiros)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarbasmedeiros&layout=compact)](https://github.com/jarbasmedeiros)
 

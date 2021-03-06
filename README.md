@@ -16,7 +16,7 @@
 
 ![bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white)
 ![laravel](https://img.shields.io/badge/-laravel-FF2D20?logo=laravel&style=for-the-badge&logoColor=white)
-![spring](https://img.shields.io/badge/-spring-6DB33F?logo=laravel&style=for-the-badge&logoColor=white)
+![spring](https://img.shields.io/badge/-spring-6DB33F?logo=spring&style=for-the-badge&logoColor=white)
 
 ## OS & Tools
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)

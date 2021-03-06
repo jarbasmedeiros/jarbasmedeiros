@@ -33,5 +33,5 @@
 
 ## Status
 [![Jarbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarbasmedeiros)](https://github.com/jarbasmedeiros)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarbasmedeiros)](https://github.com/jarbasmedeiros)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarbasmedeiros&layout=compact)](https://github.com/jarbasmedeiros)
 

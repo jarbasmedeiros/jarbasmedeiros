@@ -30,3 +30,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarbas-medeiros-49667b13b/)](https://www.linkedin.com/in/jarbas-medeiros-49667b13b/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+084+987224452&text=Hello!)](https://api.whatsapp.com/send?phone=55+084+987224452&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jarbasmedeirosfilho@gmail.com)](mailto:jarbasmedeirosfilho@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarbasmedeiros&layout=compact&langs_count=8)](https://github.com/jarbasmedeiros)

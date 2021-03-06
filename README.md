@@ -1,6 +1,5 @@
-# Welcome!
-
-### Hi there 👋, I'm Jarbas Medeiros
+<h1 align="center">Hi there 👋, I'm Jarbas Medeiros</h1>
+<h3 align="center">Back-end Developer</h3>
 
 - 🌱 I’m currently learning more of **Java** & **Spring Boot**
 - 📫 How to reach me: **jarbasmedeirosfilho@gmail.com**

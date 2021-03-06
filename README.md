@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Jarbas Medeiros
 
 - 🌱 I’m currently learning more of **Java** & **Spring Boot**
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
+- 📫 How to reach me: **jarbasmedeirosfilho@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
